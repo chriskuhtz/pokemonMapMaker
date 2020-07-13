@@ -1,0 +1,670 @@
+{
+  "tools": [
+    {
+      "type": "tool",
+      "name": "Turn",
+      "height": 1,
+      "width": 1,
+      "category": "tools"
+    },
+    {
+      "type": "tool",
+      "name": "Remove",
+      "height": 1,
+      "width": 1,
+      "category": "tools"
+    },
+    {
+      "type": "object",
+      "name": "Trigger",
+      "height": 1,
+      "width": 1,
+      "category": "tools"
+    }
+  ],
+  "pond": [
+    {
+      "type": "object",
+      "name": "BridgeEnd",
+      "ori": true,
+      "height": 1,
+      "width": 1,
+
+      "category": "pond"
+    },
+    {
+      "type": "tile",
+      "name": "Grass",
+      "height": 1,
+      "width": 1,
+      "category": "pond"
+    },
+    {
+      "type": "tile",
+      "name": "Lawn",
+      "height": 1,
+      "width": 1,
+      "category": "pond"
+    },
+    {
+      "type": "object",
+      "name": "LilyFlower",
+      "height": 1,
+      "width": 1,
+      "category": "pond"
+    },
+    {
+      "type": "object",
+      "name": "LilyPad",
+      "height": 1,
+      "width": 1,
+      "category": "pond"
+    },
+    {
+      "type": "object",
+      "name": "PondCorner",
+      "ori": 0,
+      "height": 1,
+      "width": 1,
+      "category": "pond"
+    },
+    {
+      "type": "object",
+      "name": "PondRock",
+      "height": 1,
+      "width": 1,
+      "category": "pond"
+    },
+    {
+      "type": "object",
+      "name": "PondSide",
+      "ori": 0,
+      "height": 1,
+      "width": 1,
+      "category": "pond"
+    },
+    {
+      "type": "tile",
+      "name": "Water",
+      "height": 1,
+      "width": 1,
+      "category": "pond"
+    },
+    {
+      "type": "object",
+      "name": "PondGrass",
+      "height": 3,
+      "width": 1,
+      "category": "pond"
+    },
+    {
+      "type": "object",
+      "name": "BridgeHorizontal",
+      "height": 2,
+      "width": 1,
+      "category": "pond"
+    },
+    {
+      "type": "object",
+      "name": "BridgeVertical",
+      "height": 1,
+      "width": 2,
+      "category": "pond"
+    },
+    {
+      "type": "object",
+      "name": "BigBridgeHorizontal",
+      "height": 3,
+      "width": 3,
+      "category": "pond"
+    },
+    {
+      "type": "object",
+      "name": "Tree",
+      "height": 3,
+      "width": 3,
+      "category": "pond"
+    }
+  ],
+  "cave": [
+    {
+      "type": "object",
+      "name": "Barrel",
+      "height": 2,
+      "width": 1,
+      "category": "cave"
+    },
+    {
+      "type": "tile",
+      "name": "Floor1",
+      "height": 1,
+      "width": 1,
+      "category": "cave"
+    },
+    {
+      "type": "tile",
+      "name": "Floor2",
+      "height": 1,
+      "width": 1,
+      "category": "cave"
+    },
+    {
+      "type": "tile",
+      "name": "Floor3",
+      "height": 1,
+      "width": 1,
+      "category": "cave"
+    },
+    {
+      "type": "object",
+      "name": "Rock",
+      "height": 2,
+      "width": 2,
+      "category": "cave"
+    },
+    {
+      "type": "object",
+      "name": "Spring",
+      "height": 2,
+      "width": 2,
+      "category": "cave"
+    },
+    {
+      "type": "object",
+      "name": "Sign",
+      "height": 1,
+      "width": 2,
+      "category": "cave"
+    },
+    {
+      "type": "object",
+      "name": "RockWallCornerBottom",
+      "ori": true,
+      "height": 1,
+      "width": 1,
+      "category": "cave"
+    },
+    {
+      "type": "object",
+      "name": "RockWallCornerTop",
+      "ori": true,
+      "height": 1,
+      "width": 1,
+      "category": "cave"
+    },
+    {
+      "type": "object",
+      "name": "RockWallInnerCorner",
+      "ori": true,
+      "height": 1,
+      "width": 1,
+      "category": "cave"
+    },
+    {
+      "type": "object",
+      "name": "RockWallSide",
+      "ori": true,
+      "height": 1,
+      "width": 1,
+      "category": "cave"
+    },
+    {
+      "type": "object",
+      "name": "RockWallBottom",
+      "height": 1,
+      "width": 1,
+      "category": "cave"
+    },
+    {
+      "type": "object",
+      "name": "RockWallTop",
+      "height": 1,
+      "width": 1,
+      "category": "cave"
+    }
+  ],
+  "swamp": [
+    {
+      "type": "tile",
+      "name": "Floor1",
+      "height": 1,
+      "width": 1,
+      "category": "swamp"
+    },
+    {
+      "type": "tile",
+      "name": "FloorMark",
+      "height": 1,
+      "width": 1,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "FloorMarkUpperCorner",
+      "ori": true,
+      "height": 1,
+      "width": 1,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "FloorMarkLowerCorner",
+      "ori": true,
+      "height": 1,
+      "width": 1,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "FloorMarkSide",
+      "ori": true,
+      "height": 1,
+      "width": 1,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "FloorMarkTop",
+      "height": 1,
+      "width": 1,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "FloorMarkBottom",
+      "height": 1,
+      "width": 1,
+      "category": "swamp"
+    },
+
+    {
+      "type": "object",
+      "name": "Moss",
+      "height": 1,
+      "width": 1,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "Mushrooms",
+      "height": 2,
+      "width": 1,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "FloorMarkBig",
+      "height": 2,
+      "width": 2,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "Tree",
+      "height": 4,
+      "width": 3,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "TreeCenter",
+      "height": 4,
+      "width": 1,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "TreeSide",
+      "ori": true,
+      "height": 4,
+      "width": 1,
+      "category": "swamp"
+    },
+    {
+      "type": "object",
+      "name": "TreeSideMushrooms",
+      "ori": true,
+      "height": 4,
+      "width": 1,
+      "category": "swamp"
+    }
+  ],
+  "persons": [
+    {
+      "type": "object",
+      "name": "BattleGirl",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "LittleBoy",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "LittleGirl",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "Intern",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "Rocker",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "AceTrainerf",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "AceTrainerm",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "HairStylist",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "HairStylist",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "Grandpa",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "Grandma",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "ShopKeeper",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "Skierf",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "Bikerf",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "Scientistm",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "Scientistf",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    },
+    {
+      "type": "object",
+      "name": "Snob",
+      "ori": 0,
+      "height": 1.5,
+      "width": 1,
+      "style": "person",
+      "category": "persons"
+    }
+  ],
+  "homemade": [
+    {
+      "type": "object",
+      "name": "Item",
+      "height": 1,
+      "width": 1,
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "Way",
+      "height": 1,
+      "width": 1,
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "WayCorner",
+      "ori": 0,
+      "height": 1,
+      "width": 1,
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "WayInsideCorner",
+      "ori": 0,
+      "height": 1,
+      "width": 1,
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "Fence",
+      "ori": 0,
+      "height": 1,
+      "width": 1,
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "FenceCorner",
+      "ori": 0,
+      "height": 1,
+      "width": 1,
+      "category": "homemade"
+    },
+
+    {
+      "type": "object",
+      "name": "Girl",
+      "ori": 0,
+      "height": 2,
+      "width": 1,
+      "style": "person",
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "Boy",
+      "ori": 0,
+      "height": 2,
+      "width": 1,
+      "style": "person",
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "Farmer",
+      "height": 2,
+      "width": 1,
+      "style": "person",
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "Ranger",
+      "height": 2,
+      "width": 1,
+      "style": "person",
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "name": "Grass",
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "name": "Lawn",
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "name": "newLawn",
+      "category": "homemade"
+    },
+
+    {
+      "type": "tile",
+      "name": "Street",
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "name": "Forest",
+      "category": "homemade"
+    },
+
+    {
+      "type": "tile",
+      "name": "WhiteTile",
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "name": "ForestPath",
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "ori": 0,
+      "name": "ForestPathCorner",
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "ori": 0,
+      "name": "ForestPathInnerCorner",
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "ori": 0,
+      "name": "ForestPathEdge",
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "name": "Path",
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "name": "PathCorner",
+      "ori": 0,
+      "category": "homemade"
+    },
+    {
+      "type": "tile",
+      "name": "PathEdge",
+      "ori": 0,
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "UglyHouse",
+      "height": 3,
+      "width": 4,
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "OliveTree",
+      "height": 2,
+      "width": 2,
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "PineTree",
+      "height": 2,
+      "width": 2,
+      "category": "homemade"
+    },
+    {
+      "type": "object",
+      "name": "PineTreeSlim",
+      "height": 2,
+      "width": 1,
+      "category": "homemade"
+    }
+  ]
+}
