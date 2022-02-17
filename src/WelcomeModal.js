@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import { Button, Modal, ModalHeader, ModalBody, ModalFooter } from "reactstrap";
+import { Modal, ModalHeader, ModalBody, ModalFooter } from "reactstrap";
 
 const WelcomeModal = (props) => {
-  const { buttonLabel, className } = props;
+  const { className } = props;
 
   const [modal, setModal] = useState(true);
 

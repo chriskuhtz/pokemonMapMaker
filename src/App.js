@@ -415,7 +415,6 @@ class App extends React.Component {
           area={this.state.area}
           create={this.create}
           toolTip={this.state.toolTip}
-          toolTip={this.state.toolTip}
           toolTipChange={this.toolTipChange}
           toggleArea={() => this.setState({ area: !this.state.area })}
           x={0}

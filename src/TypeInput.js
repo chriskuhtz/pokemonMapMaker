@@ -2,19 +2,13 @@ import React from "react";
 import {
   Button,
   ButtonGroup,
-  Modal,
-  ModalHeader,
-  ModalBody,
-  ModalFooter,
+  Dropdown,
+  DropdownItem,
+  DropdownMenu,
+  DropdownToggle,
   Input,
   InputGroup,
   InputGroupAddon,
-  Row,
-  Col,
-  Dropdown,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem,
 } from "reactstrap";
 
 class TypeInput extends React.Component {
